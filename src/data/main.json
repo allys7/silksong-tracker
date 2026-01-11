@@ -12,6 +12,7 @@
           "id": "nail0",
           "label": "Base Needle",
           "link": "https://hollowknight.wiki/w/Needle",
+          "locations": ["Bellhart"],
           "mapCategory": "needle-upgrades",
           "required": 0,
           "type": "level"
@@ -25,6 +26,7 @@
           "id": "nail1",
           "label": "Sharpened Needle",
           "link": "https://hollowknight.wiki/w/Needle",
+          "locations": ["Bellhart"],
           "mapCategory": "needle-upgrades",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -46,6 +48,7 @@
           "id": "nail2",
           "label": "Shining Needle",
           "link": "https://hollowknight.wiki/w/Needle",
+          "locations": ["Bellhart"],
           "mapCategory": "needle-upgrades",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -67,6 +70,7 @@
           "id": "nail3",
           "label": "Hivesteel Needle",
           "link": "https://hollowknight.wiki/w/Needle",
+          "locations": ["Bellhart"],
           "mapCategory": "needle-upgrades",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -88,6 +92,7 @@
           "id": "nail4",
           "label": "Pale Steel Needle",
           "link": "https://hollowknight.wiki/w/Needle",
+          "locations": ["Bellhart"],
           "mapCategory": "needle-upgrades",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -114,6 +119,7 @@
           "id": "mask-shard-1",
           "label": "Mask Shard #1",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Blasted Steps"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -132,6 +138,7 @@
           "id": "mask-shard-2",
           "label": "Mask Shard #2",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Wormways"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -151,6 +158,7 @@
           "id": "mask-shard-3",
           "label": "Mask Shard #3",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["The Marrow"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -170,6 +178,7 @@
           "id": "mask-shard-4",
           "label": "Mask Shard #4",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Far Fields"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -189,6 +198,7 @@
           "id": "mask-shard-5",
           "label": "Mask Shard #5",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Shellwood"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -208,6 +218,7 @@
           "id": "mask-shard-6",
           "label": "Mask Shard #6",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Weavenest Atla"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -227,6 +238,7 @@
           "id": "mask-shard-7",
           "label": "Mask Shard #7",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Choral Chambers"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -245,6 +257,7 @@
           "id": "mask-shard-8",
           "label": "Mask Shard #8",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Cogwork Core"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -264,6 +277,7 @@
           "id": "mask-shard-9",
           "label": "Mask Shard #9",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Whispering Vaults"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -283,6 +297,7 @@
           "id": "mask-shard-10",
           "label": "Mask Shard #10",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Choral Chambers"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -301,6 +316,7 @@
           "id": "mask-shard-11",
           "label": "Mask Shard #11",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Far Fields"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -320,6 +336,7 @@
           "id": "mask-shard-12",
           "label": "Mask Shard #12",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Mount Fay"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -339,6 +356,7 @@
           "id": "mask-shard-13",
           "label": "Mask Shard #13",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Slab"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -358,6 +376,7 @@
           "id": "mask-shard-14",
           "label": "Mask Shard #14",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Bilewater"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -377,6 +396,7 @@
           "id": "mask-shard-15",
           "label": "Mask Shard #15",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Wisp Thicket"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -396,6 +416,7 @@
           "id": "mask-shard-16",
           "label": "Mask Shard #16",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Blasted Steps"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -415,6 +436,7 @@
           "id": "mask-shard-17",
           "label": "Mask Shard #17",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Mount Fay"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -434,6 +456,7 @@
           "id": "mask-shard-18",
           "label": "Mask Shard #18",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Far Fields"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -452,6 +475,7 @@
           "id": "mask-shard-19",
           "label": "Mask Shard #19",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Bellhart"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -470,6 +494,7 @@
           "id": "mask-shard-20",
           "label": "Mask Shard #20",
           "link": "https://hollowknight.wiki/w/Mask_Shard_(Silksong)",
+          "locations": ["Bellhart"],
           "mapCategory": "mask-shards",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -494,6 +519,7 @@
           "id": "spool-fragment-1",
           "label": "Spool Fragment #1",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["The Marrow"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -513,6 +539,7 @@
           "id": "spool-fragment-2",
           "label": "Spool Fragment #2",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Deep Docks"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -532,6 +559,7 @@
           "id": "spool-fragment-3",
           "label": "Spool Fragment #3",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Greymoor"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -551,6 +579,7 @@
           "id": "spool-fragment-4",
           "label": "Spool Fragment #4",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Bellhart"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -569,6 +598,7 @@
           "id": "spool-fragment-5",
           "label": "Spool Fragment #5",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Weavenest Atla"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -588,6 +618,7 @@
           "id": "spool-fragment-6",
           "label": "Spool Fragment #6",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Slab"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -607,6 +638,7 @@
           "id": "spool-fragment-7",
           "label": "Spool Fragment #7",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Grand Gate"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -626,6 +658,7 @@
           "id": "spool-fragment-8",
           "label": "Spool Fragment #8",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Underworks"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -645,6 +678,7 @@
           "id": "spool-fragment-9",
           "label": "Spool Fragment #9",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Grand Gate"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -663,6 +697,7 @@
           "id": "spool-fragment-10",
           "label": "Spool Fragment #10",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Whiteward"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -682,6 +717,7 @@
           "id": "spool-fragment-11",
           "label": "Spool Fragment #11",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Cogwork Core"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -701,6 +737,7 @@
           "id": "spool-fragment-12",
           "label": "Spool Fragment #12",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Underworks"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -720,6 +757,7 @@
           "id": "spool-fragment-13",
           "label": "Spool Fragment #13",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Choral Chambers"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -738,6 +776,7 @@
           "id": "spool-fragment-14",
           "label": "Spool Fragment #14",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Choral Chambers"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -756,6 +795,7 @@
           "id": "spool-fragment-15",
           "label": "Spool Fragment #15",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Deep Docks"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -775,6 +815,7 @@
           "id": "spool-fragment-16",
           "label": "Spool Fragment #16",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["High Halls"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -794,6 +835,7 @@
           "id": "spool-fragment-17",
           "label": "Spool Fragment #17",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Memorium"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -813,6 +855,7 @@
           "id": "spool-fragment-18",
           "label": "Spool Fragment #18",
           "link": "https://hollowknight.wiki/w/Spool_Fragment",
+          "locations": ["Blasted Steps"],
           "mapCategory": "spool-fragments",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -836,6 +879,7 @@
           "id": "silk-heart-1",
           "label": "Silk Heart #1",
           "link": "https://hollowknight.wiki/w/Silk_Heart",
+          "locations": ["The Marrow"],
           "mapCategory": "silk-hearts",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -854,6 +898,7 @@
           "id": "silk-heart-2",
           "label": "Silk Heart #2",
           "link": "https://hollowknight.wiki/w/Silk_Heart",
+          "locations": ["Whiteward"],
           "mapCategory": "silk-hearts",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -872,6 +917,7 @@
           "id": "silk-heart-3",
           "label": "Silk Heart #3",
           "link": "https://hollowknight.wiki/w/Silk_Heart",
+          "locations": ["Cradle"],
           "mapCategory": "silk-hearts",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -897,6 +943,7 @@
           "id": "everbloom",
           "label": "Everbloom",
           "link": "https://hollowknight.wiki/w/Everbloom",
+          "locations": ["Moss Grotto"],
           "mapCategory": "miscellaneous",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -915,6 +962,7 @@
           "id": "bind-eva",
           "label": "Bind Eva",
           "link": "https://hollowknight.wiki/w/Eva",
+          "locations": ["Weavenest Atla"],
           "mapCategory": "miscellaneous",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -939,6 +987,7 @@
           "id": "crest-hunter",
           "label": "Hunter Crest",
           "link": "https://hollowknight.wiki/w/Hunter_Crest",
+          "locations": ["Moss Grotto"],
           "mapCategory": "crests",
           "showOnMap": true,
           "type": "tool"
@@ -951,6 +1000,7 @@
           "id": "crest-reaper",
           "label": "Reaper Crest",
           "link": "https://hollowknight.wiki/w/Reaper_Crest",
+          "locations": ["Greymoor"],
           "mapCategory": "crests",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -969,6 +1019,7 @@
           "id": "crest-wanderer",
           "label": "Wanderer Crest",
           "link": "https://hollowknight.wiki/w/Wanderer_Crest",
+          "locations": ["Moss Grotto"],
           "mapCategory": "crests",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -987,6 +1038,7 @@
           "id": "crest-beast",
           "label": "Beast Crest",
           "link": "https://hollowknight.wiki/w/Beast_Crest",
+          "locations": ["Hunter's March"],
           "mapCategory": "crests",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1005,6 +1057,7 @@
           "id": "crest-witch",
           "label": "Witch Crest",
           "link": "https://hollowknight.wiki/w/Witch_Crest",
+          "locations": ["Shellwood"],
           "mapCategory": "crests",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1023,6 +1076,7 @@
           "id": "crest-architect",
           "label": "Architect Crest",
           "link": "https://hollowknight.wiki/w/Architect_Crest",
+          "locations": ["Underworks"],
           "mapCategory": "crests",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1041,6 +1095,7 @@
           "id": "crest-shaman",
           "label": "Shaman Crest",
           "link": "https://hollowknight.wiki/w/Shaman_Crest",
+          "locations": ["Moss Grotto"],
           "mapCategory": "crests",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1065,6 +1120,7 @@
           "id": "silkspear",
           "label": "Silkspear",
           "link": "https://hollowknight.wiki/w/Silkspear",
+          "locations": ["Moss Grotto"],
           "mapCategory": "silk-skills",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1082,7 +1138,8 @@
           "icon": "icons/Thread_Storm.png",
           "id": "thread-storm",
           "label": "Thread Storm",
-          "link": "https://hollowknight.wiki/w/Thread_Sphere",
+          "link": "https://hollowknight.wiki/w/Thread_Storm",
+          "locations": ["Greymoor"],
           "mapCategory": "silk-skills",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1101,6 +1158,7 @@
           "id": "cross-stitch",
           "label": "Cross Stitch",
           "link": "https://hollowknight.wiki/w/Cross_Stitch",
+          "locations": ["Bilewater"],
           "mapCategory": "silk-skills",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1119,6 +1177,7 @@
           "id": "sharpdart",
           "label": "Sharpdart",
           "link": "https://hollowknight.wiki/w/Sharpdart",
+          "locations": ["Wormways"],
           "mapCategory": "silk-skills",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1137,6 +1196,7 @@
           "id": "rune-rage",
           "label": "Rune Rage",
           "link": "https://hollowknight.wiki/w/Rune_Rage",
+          "locations": ["Slab"],
           "mapCategory": "silk-skills",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1155,6 +1215,7 @@
           "id": "pale-nails",
           "label": "Pale Nails",
           "link": "https://hollowknight.wiki/w/Pale_Nails",
+          "locations": ["Cradle"],
           "mapCategory": "silk-skills",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1179,6 +1240,7 @@
           "id": "tool-pouch-0",
           "label": "Base Tool Pouch",
           "link": "https://hollowknight.wiki/w/Tool_Pouch",
+          "locations": ["Moss Grotto"],
           "mapCategory": "tool-pouch",
           "required": 0,
           "type": "level"
@@ -1191,6 +1253,7 @@
           "id": "tool-pouch-1",
           "label": "Tool Pouch Upgrade #1",
           "link": "https://hollowknight.wiki/w/Tool_Pouch",
+          "locations": ["Far Fields"],
           "mapCategory": "tool-pouch",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1220,6 +1283,7 @@
           "id": "tool-pouch-2",
           "label": "Tool Pouch Upgrade #2",
           "link": "https://hollowknight.wiki/w/Tool_Pouch",
+          "locations": ["The Marrow"],
           "mapCategory": "tool-pouch",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1238,6 +1302,7 @@
           "id": "tool-pouch-3",
           "label": "Tool Pouch Upgrade #3",
           "link": "https://hollowknight.wiki/w/Tool_Pouch",
+          "locations": ["Greymoor"],
           "mapCategory": "tool-pouch",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1256,6 +1321,7 @@
           "id": "tool-pouch-4",
           "label": "Tool Pouch Upgrade #4",
           "link": "https://hollowknight.wiki/w/Tool_Pouch",
+          "locations": ["Putrified Ducts"],
           "mapCategory": "tool-pouch",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1281,6 +1347,7 @@
           "id": "crafting-kit-0",
           "label": "Base Crafting Kit",
           "link": "https://hollowknight.wiki/w/Crafting_Kit",
+          "locations": ["Moss Grotto"],
           "mapCategory": "crafting-kit",
           "required": 0,
           "type": "level"
@@ -1293,6 +1360,7 @@
           "id": "crafting-kit-1",
           "label": "Crafting Kit Upgrade #1",
           "link": "https://hollowknight.wiki/w/Crafting_Kit",
+          "locations": ["Deep Docks"],
           "mapCategory": "crafting-kit",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1311,6 +1379,7 @@
           "id": "crafting-kit-2",
           "label": "Crafting Kit Upgrade #2",
           "link": "https://hollowknight.wiki/w/Crafting_Kit",
+          "locations": ["Greymoor"],
           "mapCategory": "crafting-kit",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1329,6 +1398,7 @@
           "id": "crafting-kit-3",
           "label": "Crafting Kit Upgrade #3",
           "link": "https://hollowknight.wiki/w/Crafting_Kit",
+          "locations": ["Underworks"],
           "mapCategory": "crafting-kit",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1347,6 +1417,7 @@
           "id": "crafting-kit-4",
           "label": "Crafting Kit Upgrade #4",
           "link": "https://hollowknight.wiki/w/Crafting_Kit",
+          "locations": ["Blasted Steps"],
           "mapCategory": "crafting-kit",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1371,6 +1442,7 @@
           "id": "ability-swift-step",
           "label": "Swift Step",
           "link": "https://hollowknight.wiki/w/Swift_Step",
+          "locations": ["Deep Docks"],
           "mapCategory": "ability",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1389,6 +1461,7 @@
           "id": "ability-cling-grip",
           "label": "Cling Grip",
           "link": "https://hollowknight.wiki/w/Cling_Grip",
+          "locations": ["Shellwood"],
           "mapCategory": "ability",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1407,6 +1480,7 @@
           "id": "ability-needolin",
           "label": "Needolin",
           "link": "https://hollowknight.wiki/w/Needolin",
+          "locations": ["Bellhart"],
           "mapCategory": "ability",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1425,6 +1499,7 @@
           "id": "ability-clawline",
           "label": "Clawline",
           "link": "https://hollowknight.wiki/w/Clawline",
+          "locations": ["Underworks"],
           "mapCategory": "ability",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1443,6 +1518,7 @@
           "id": "ability-silk-soar",
           "label": "Silk Soar",
           "link": "https://hollowknight.wiki/w/Silk_Soar",
+          "locations": ["Abyss"],
           "mapCategory": "ability",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1461,6 +1537,7 @@
           "id": "ability-needle-strike",
           "label": "Needle Strike",
           "link": "https://hollowknight.wiki/w/Needle_Strike",
+          "locations": ["Blasted Steps"],
           "mapCategory": "ability",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1485,6 +1562,7 @@
           "id": "red-straight-pin",
           "label": "Straight Pin",
           "link": "https://hollowknight.wiki/w/Straight_Pin",
+          "locations": ["The Marrow"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1503,6 +1581,7 @@
           "id": "red-threefold-pin",
           "label": "Threefold Pin",
           "link": "https://hollowknight.wiki/w/Threefold_Pin",
+          "locations": ["Greymoor"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1521,6 +1600,7 @@
           "id": "red-sting-shard",
           "label": "Sting Shard",
           "link": "https://hollowknight.wiki/w/Sting_Shard",
+          "locations": ["Deep Docks"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1539,6 +1619,7 @@
           "id": "red-tacks",
           "label": "Tacks",
           "link": "https://hollowknight.wiki/w/Tacks",
+          "locations": ["Sinner's Road"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1547,7 +1628,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1558,6 +1638,7 @@
           "id": "red-throwing-ring",
           "label": "Throwing Ring",
           "link": "https://hollowknight.wiki/w/Throwing_Ring",
+          "locations": ["Bilewater"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1566,7 +1647,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1577,6 +1657,7 @@
           "id": "red-longpin",
           "label": "Longpin",
           "link": "https://hollowknight.wiki/w/Longpin",
+          "locations": ["Bellhart"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1585,7 +1666,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1596,6 +1676,7 @@
           "id": "red-curveclaw",
           "label": "Curveclaw",
           "link": "https://hollowknight.wiki/w/Curveclaw",
+          "locations": ["Hunter's March"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1604,7 +1685,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1615,6 +1695,7 @@
           "id": "red-curveclaw-upgrade",
           "label": "Curvesickle",
           "link": "https://hollowknight.wiki/w/Curvesickle",
+          "locations": ["Far Fields"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1623,7 +1704,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool",
           "upgradeOf": "red-curveclaw"
         },
@@ -1635,6 +1715,7 @@
           "id": "red-pimpillo",
           "label": "Pimpillo",
           "link": "https://hollowknight.wiki/w/Pimpillo",
+          "locations": ["Greymoor"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1643,7 +1724,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1655,6 +1735,7 @@
           "id": "red-silkshot-architect",
           "label": "Silkshot (Architect)",
           "link": "https://hollowknight.wiki/w/Silkshot",
+          "locations": ["Weavenest Atla"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1663,7 +1744,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool",
           "unobtainable": true
         },
@@ -1676,6 +1756,7 @@
           "id": "red-silkshot-forge",
           "label": "Silkshot (Forge)",
           "link": "https://hollowknight.wiki/w/Silkshot",
+          "locations": ["Weavenest Atla"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1684,7 +1765,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool",
           "unobtainable": true
         },
@@ -1697,6 +1777,7 @@
           "id": "red-silkshot-weaver",
           "label": "Silkshot (Weaver)",
           "link": "https://hollowknight.wiki/w/Silkshot",
+          "locations": ["Mount Fay"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1705,7 +1786,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool",
           "unobtainable": true
         },
@@ -1717,6 +1797,7 @@
           "id": "red-conchcutter",
           "label": "Conchcutter",
           "link": "https://hollowknight.wiki/w/Conchcutter",
+          "locations": ["Sands of Karak"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1725,7 +1806,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1736,6 +1816,7 @@
           "id": "red-delvers-drill",
           "label": "Delver's Drill",
           "link": "https://hollowknight.wiki/w/Delver's_Drill",
+          "locations": ["Underworks"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1744,7 +1825,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1755,6 +1835,7 @@
           "id": "red-cogwork-wheel",
           "label": "Cogwork Wheel",
           "link": "https://hollowknight.wiki/w/Cogwork_Wheel",
+          "locations": ["Whiteward"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1763,7 +1844,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1774,6 +1854,7 @@
           "id": "red-voltvessels",
           "label": "Voltvessels",
           "link": "https://hollowknight.wiki/w/Voltvessels",
+          "locations": ["Memorium"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1782,7 +1863,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1793,6 +1873,7 @@
           "id": "red-cogfly",
           "label": "CogFly",
           "link": "https://hollowknight.wiki/w/Cogfly",
+          "locations": ["High Halls"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1801,7 +1882,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1812,6 +1892,7 @@
           "id": "red-rosary-cannon",
           "label": "Rosary Cannon",
           "link": "https://hollowknight.wiki/w/Rosary_Cannon",
+          "locations": ["High Halls"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1820,7 +1901,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1831,6 +1911,7 @@
           "id": "red-flintslate",
           "label": "Flintslate",
           "link": "https://hollowknight.wiki/w/Flintslate",
+          "locations": ["Deep Docks"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1839,7 +1920,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1850,6 +1930,7 @@
           "id": "red-plasmium-phial",
           "label": "Plasmium Phial",
           "link": "https://hollowknight.wiki/w/Plasmium_Phial",
+          "locations": ["Wormways"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1858,7 +1939,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1869,6 +1949,7 @@
           "id": "red-flea-brew",
           "label": "Flea Brew",
           "link": "https://hollowknight.wiki/w/Flea_Brew",
+          "locations": ["Greymoor"],
           "mapCategory": "red-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1877,7 +1958,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         }
       ],
@@ -1894,6 +1974,7 @@
           "id": "blue-druids-eye",
           "label": "Druid's Eye",
           "link": "https://hollowknight.wiki/w/Druid's_Eye",
+          "locations": ["Moss Grotto"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1902,7 +1983,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1913,6 +1993,7 @@
           "id": "blue-druids-eye",
           "label": "Druid's Eyes",
           "link": "https://hollowknight.wiki/w/Druid's_Eyes",
+          "locations": ["Moss Grotto"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1921,7 +2002,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool",
           "upgradeOf": "blue-druids-eye"
         },
@@ -1933,6 +2013,7 @@
           "id": "blue-magma-bell",
           "label": "Magma Bell",
           "link": "https://hollowknight.wiki/w/Magma_Bell",
+          "locations": ["Deep Docks"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1941,7 +2022,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1952,6 +2032,7 @@
           "id": "blue-warding-bell",
           "label": "Warding Bell",
           "link": "https://hollowknight.wiki/w/Warding_Bell",
+          "locations": ["Far Fields"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1960,7 +2041,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1971,6 +2051,7 @@
           "id": "blue-pollip-pouch",
           "label": "Pollip Pouch",
           "link": "https://hollowknight.wiki/w/Pollip_Pouch",
+          "locations": ["Shellwood"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1979,7 +2060,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -1990,6 +2070,7 @@
           "id": "blue-fractured-mask",
           "label": "Fractured Mask",
           "link": "https://hollowknight.wiki/w/Fractured_Mask",
+          "locations": ["Hunter's March"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -1998,7 +2079,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2009,6 +2089,7 @@
           "id": "blue-multibinder",
           "label": "Multibinder",
           "link": "https://hollowknight.wiki/w/Multibinder",
+          "locations": ["Choral Chambers"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2017,7 +2098,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2028,6 +2108,7 @@
           "id": "blue-weavelight",
           "label": "Weavelight",
           "link": "https://hollowknight.wiki/w/Weavelight",
+          "locations": ["Weavenest Atla"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2036,7 +2117,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2047,6 +2127,7 @@
           "id": "blue-sawtooth-circlet",
           "label": "Sawtooth Circlet",
           "link": "https://hollowknight.wiki/w/Sawtooth_Circlet",
+          "locations": ["Underworks"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2055,7 +2136,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2066,6 +2146,7 @@
           "id": "blue-injector-band",
           "label": "Injector Band",
           "link": "https://hollowknight.wiki/w/Injector_Band",
+          "locations": ["Whiteward"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2074,7 +2155,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2085,6 +2165,7 @@
           "id": "blue-spool-extender",
           "label": "Spool Extender",
           "link": "https://hollowknight.wiki/w/Spool_Extender",
+          "locations": ["Choral Chambers"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2093,7 +2174,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2104,6 +2184,7 @@
           "id": "blue-reserve-bind",
           "label": "Reserve Bind",
           "link": "https://hollowknight.wiki/w/Reserve_Bind",
+          "locations": ["High Halls"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2112,7 +2193,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2123,6 +2203,7 @@
           "id": "blue-claw-mirror",
           "label": "Claw Mirror",
           "link": "https://hollowknight.wiki/w/Claw_Mirror",
+          "locations": ["Whispering Vaults"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2131,7 +2212,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2142,6 +2222,7 @@
           "id": "blue-memory-crystal",
           "label": "Memory Crystal",
           "link": "https://hollowknight.wiki/w/Memory_Crystal",
+          "locations": ["Mount Fay"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2150,7 +2231,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2161,6 +2241,7 @@
           "id": "blue-snitch-pick",
           "label": "Snitch Pick",
           "link": "https://hollowknight.wiki/w/Snitch_Pick",
+          "locations": ["Blasted Steps"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2169,7 +2250,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2180,6 +2260,7 @@
           "id": "blue-volt-filament",
           "label": "Volt Filament",
           "link": "https://hollowknight.wiki/w/Volt_Filament",
+          "locations": ["Sands of Karak"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2188,7 +2269,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2199,6 +2279,7 @@
           "id": "blue-quick-sling",
           "label": "Quick Sling",
           "link": "https://hollowknight.wiki/w/Quick_Sling",
+          "locations": ["Bilewater"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2207,7 +2288,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2218,6 +2298,7 @@
           "id": "blue-wreath-of-purity",
           "label": "Wreath of Purity",
           "link": "https://hollowknight.wiki/w/Wreath_of_Purity",
+          "locations": ["Putrified Ducts"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2226,7 +2307,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2237,6 +2317,7 @@
           "id": "blue-longclaw",
           "label": "Longclaw",
           "link": "https://hollowknight.wiki/w/Longclaw",
+          "locations": ["Putrified Ducts"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2245,7 +2326,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2256,6 +2336,7 @@
           "id": "blue-wispfire-lantern",
           "label": "Wispfire Lantern",
           "link": "https://hollowknight.wiki/w/Wispfire_Lantern",
+          "locations": ["Wisp Thicket"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2264,7 +2345,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2275,6 +2355,7 @@
           "id": "blue-egg-of-flealia",
           "label": "Egg of Flealia",
           "link": "https://hollowknight.wiki/w/Egg_of_Flealia",
+          "locations": ["Putrified Ducts"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2283,7 +2364,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2294,6 +2374,7 @@
           "id": "blue-pin-badge",
           "label": "Pin Badge",
           "link": "https://hollowknight.wiki/w/Pin_Badge",
+          "locations": ["Mount Fay"],
           "mapCategory": "blue-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2302,7 +2383,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         }
       ],
@@ -2319,6 +2399,7 @@
           "id": "yellow-compass",
           "label": "Compass",
           "link": "https://hollowknight.wiki/w/Compass",
+          "locations": ["The Marrow"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2327,7 +2408,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2338,6 +2418,7 @@
           "id": "yellow-shard-pendant",
           "label": "Shard Pendant",
           "link": "https://hollowknight.wiki/w/Shard_Pendant",
+          "locations": ["The Marrow"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2346,7 +2427,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2357,6 +2437,7 @@
           "id": "yellow-magnetite-brooch",
           "label": "Magnetite Brooch",
           "link": "https://hollowknight.wiki/w/Magnetite_Brooch",
+          "locations": ["Moss Grotto"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2365,7 +2446,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2376,6 +2456,7 @@
           "id": "yellow-weighted-belt",
           "label": "Weighted Belt",
           "link": "https://hollowknight.wiki/w/Weighted_Belt",
+          "locations": ["Far Fields"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2384,7 +2465,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2395,6 +2475,7 @@
           "id": "yellow-barbed-bracelet",
           "label": "Barbed Bracelet",
           "link": "https://hollowknight.wiki/w/Barbed_Bracelet",
+          "locations": ["Sinner's Road"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2403,7 +2484,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2414,6 +2494,7 @@
           "id": "yellow-dead-bugs-purse",
           "label": "Dead Bug's Purse",
           "link": "https://hollowknight.wiki/w/Dead_Bug's_Purse",
+          "locations": ["Wormways"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2423,7 +2504,6 @@
           },
           "mode": "normal",
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2434,6 +2514,7 @@
           "id": "yellow-shell-satchel",
           "label": "Shell Satchel",
           "link": "https://hollowknight.wiki/w/Shell_Satchel",
+          "locations": ["Wormways"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2443,7 +2524,6 @@
           },
           "mode": "steel",
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2454,6 +2534,7 @@
           "id": "yellow-magnetite-dice",
           "label": "Magnetite Dice",
           "link": "https://hollowknight.wiki/w/Magnetite_Dice",
+          "locations": ["Blasted Steps"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2462,7 +2543,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2473,6 +2553,7 @@
           "id": "yellow-scuttlebrace",
           "label": "Scuttlebrace",
           "link": "https://hollowknight.wiki/w/Scuttlebrace",
+          "locations": ["Whiteward"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2481,7 +2562,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2492,6 +2572,7 @@
           "id": "yellow-ascendants-grip",
           "label": "Ascendant's Grip",
           "link": "https://hollowknight.wiki/w/Ascendant's_Grip",
+          "locations": ["Choral Chambers"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2500,7 +2581,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2511,6 +2591,7 @@
           "id": "yellow-spider-strings",
           "label": "Spider Strings",
           "link": "https://hollowknight.wiki/w/Spider_Strings",
+          "locations": ["Choral Chambers"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2519,7 +2600,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2530,6 +2610,7 @@
           "id": "yellow-silkspeed-anklets",
           "label": "Silkspeed Anklets",
           "link": "https://hollowknight.wiki/w/Silkspeed_Anklets",
+          "locations": ["Far Fields"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2538,7 +2619,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         },
         {
@@ -2549,6 +2629,7 @@
           "id": "yellow-thiefs-mark",
           "label": "Thief's Mark",
           "link": "https://hollowknight.wiki/w/Thief's_Mark",
+          "locations": ["Blasted Steps"],
           "mapCategory": "yellow-tools",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -2557,7 +2638,6 @@
             "zoom": 2.0
           },
           "showOnMap": true,
-
           "type": "tool"
         }
       ],

@@ -71,6 +71,44 @@
                   "type": "object"
                 },
 
+                "locations": {
+                  "description": "Optional canonical location(s) for this scene. Values must match src/types/Location.ts",
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "enum": [
+                      "Moss Grotto",
+                      "The Marrow",
+                      "Deep Docks",
+                      "Far Fields",
+                      "Wormways",
+                      "Hunter's March",
+                      "Greymoor",
+                      "Bellhart",
+                      "Shellwood",
+                      "Blasted Steps",
+                      "Sinner's Road",
+                      "Mount Fay",
+                      "Sands of Karak",
+                      "Bilewater",
+                      "Grand Gate",
+                      "Choral Chambers",
+                      "Whispering Vaults",
+                      "Whiteward",
+                      "High Halls",
+                      "Memorium",
+                      "Cradle",
+                      "Underworks",
+                      "Putrified Ducts",
+                      "Verdania",
+                      "Cogwork Core",
+                      "Slab",
+                      "Weavenest Atla",
+                      "Abyss"
+                    ]
+                  }
+                },
+
                 "mode": {
                   "description": "Optional. Specifies the game mode this scene belongs to (e.g., normal or steel).",
                   "enum": ["normal", "steel"],
@@ -99,6 +137,42 @@
         "required": ["description", "items", "label"],
         "type": "object"
       },
+      "locations": {
+        "description": "Location(s) for this item.",
+        "items": {
+          "enum": [
+            "Moss Grotto",
+            "The Marrow",
+            "Deep Docks",
+            "Far Fields",
+            "Wormways",
+            "Hunter's March",
+            "Greymoor",
+            "Bellhart",
+            "Shellwood",
+            "Blasted Steps",
+            "Sinner's Road",
+            "Mount Fay",
+            "Sands of Karak",
+            "Bilewater",
+            "Grand Gate",
+            "Choral Chambers",
+            "Whispering Vaults",
+            "Whiteward",
+            "High Halls",
+            "Memorium",
+            "Cradle",
+            "Underworks",
+            "Putrified Ducts",
+            "Verdania",
+            "Cogwork Core",
+            "Slab",
+            "Weavenest Atla",
+            "Abyss",
+            "Wisp Thicket"
+          ],
+          "type": "string"
+        },
       "type": "array"
     }
   },

@@ -22,7 +22,8 @@
           "id": "threadspun-town",
           "label": "The Threadspun Town",
           "link": "https://hollowknight.wiki/w/Acts#The_Threadspun_Town",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Bellhart"]
         },
         {
           "act": 1,
@@ -33,7 +34,8 @@
           "label": "Grand Gate",
           "link": "https://hollowknight.wiki/w/Acts#Grand_Gate",
           "missable": true,
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Grand Gate"]
         },
         {
           "act": 2,
@@ -43,7 +45,8 @@
           "id": "silent-halls",
           "label": "Silent Halls",
           "link": "https://hollowknight.wiki/w/Acts#Silent_Halls",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Choral Chambers"]
         },
         {
           "act": 2,
@@ -94,6 +97,7 @@
           "id": "soul-snare",
           "label": "Soul Snare",
           "link": "https://hollowknight.wiki/w/Acts#Soul_Snare",
+          "locations": ["Cradle"],
           "type": "quest"
         },
         {
@@ -104,7 +108,8 @@
           "id": "after-the-fall",
           "label": "After the Fall",
           "link": "https://hollowknight.wiki/w/Acts#After_the_Fall",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Cradle"]
         },
         {
           "act": 3,
@@ -134,7 +139,8 @@
           "id": "the-dark-below-1",
           "label": "The Dark Below #1",
           "link": "https://hollowknight.wiki/w/Acts#The_Dark_Below",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Deep Docks"]
         },
         {
           "act": 3,
@@ -144,7 +150,8 @@
           "id": "the-dark-below-2",
           "label": "The Dark Below #2",
           "link": "https://hollowknight.wiki/w/Acts#The_Dark_Below",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Deep Docks"]
         },
         {
           "act": 3,
@@ -154,7 +161,8 @@
           "id": "the-dark-below-3",
           "label": "The Dark Below #3",
           "link": "https://hollowknight.wiki/w/Acts#The_Dark_Below",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Deep Docks"]
         },
         {
           "act": 3,
@@ -164,7 +172,8 @@
           "id": "the-dark-below-4",
           "label": "The Dark Below #4",
           "link": "https://hollowknight.wiki/w/Acts#The_Dark_Below",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Abyss"]
         },
         {
           "act": 3,
@@ -174,7 +183,8 @@
           "id": "return-to-pharloom",
           "label": "Return to Pharloom",
           "link": "https://hollowknight.wiki/w/Acts#Return_to_Pharloom",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Abyss"]
         },
         {
           "act": 3,
@@ -312,7 +322,8 @@
           "id": "infestation-operation",
           "label": "Infestation Operation",
           "link": "https://hollowknight.wiki/w/Infestation_Operation",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Sinner's Road"]
         },
         {
           "act": 2,
@@ -322,7 +333,8 @@
           "id": "trails-end",
           "label": "Trail's End",
           "link": "https://hollowknight.wiki/w/Trail's_End",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Bilewater"]
         },
         {
           "act": 2,
@@ -342,6 +354,7 @@
           "id": "silk-and-soul-1",
           "label": "Silk and Soul #1",
           "link": "https://hollowknight.wiki/w/Silk_and_Soul",
+          "locations": ["Choral Chambers"],
           "type": "quest"
         },
         {
@@ -362,7 +375,8 @@
           "id": "fatal-resolve-1",
           "label": "Fatal Resolve #1",
           "link": "https://hollowknight.wiki/w/Fatal_Resolve",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Blasted Steps"]
         },
         {
           "act": 3,
@@ -372,7 +386,8 @@
           "id": "fatal-resolve-2",
           "label": "Fatal Resolve #2",
           "link": "https://hollowknight.wiki/w/Fatal_Resolve",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Mount Fay"]
         },
         {
           "act": 3,
@@ -382,7 +397,8 @@
           "id": "pain-anguish-and-misery",
           "label": "Pain, Anguish and Misery",
           "link": "https://hollowknight.wiki/w/Pain,_Anguish_and_Misery",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Whispering Vaults"]
         },
         {
           "act": 3,
@@ -392,7 +408,8 @@
           "id": "heros-call",
           "label": "Hero's Call",
           "link": "https://hollowknight.wiki/w/Hero's_Call",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Blasted Steps"]
         },
         {
           "act": 3,
@@ -428,7 +445,8 @@
           "id": "berry-picking-1",
           "label": "Berry Picking #1",
           "link": "https://hollowknight.wiki/w/Berry_Picking",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Moss Grotto"]
         },
         {
           "act": 1,
@@ -448,7 +466,8 @@
           "id": "rite-of-the-pollip",
           "label": "Rite of the Pollip",
           "link": "https://hollowknight.wiki/w/Rite_of_the_Pollip",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Shellwood"]
         },
         {
           "act": 1,
@@ -458,7 +477,8 @@
           "id": "silver-bells",
           "label": "Silver Bells",
           "link": "https://hollowknight.wiki/w/Silver_Bells",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Bellhart"]
         },
         {
           "act": 1,
@@ -468,7 +488,8 @@
           "id": "alchemists-assistant",
           "label": "Alchemist's Assistant",
           "link": "https://hollowknight.wiki/w/Alchemist's_Assistant",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Wormways"]
         },
         {
           "act": 2,
@@ -488,7 +509,8 @@
           "id": "advanced-alchemy",
           "label": "Advanced Alchemy",
           "link": "https://hollowknight.wiki/w/Advanced_Alchemy",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Wormways"]
         }
       ],
       "label": "Gather Wishes"
@@ -515,7 +537,8 @@
           "id": "flexile-spines",
           "label": "Flexile Spines",
           "link": "https://hollowknight.wiki/w/Flexile_Spines",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Far Fields"]
         },
         {
           "act": 1,
@@ -526,7 +549,8 @@
           "label": "Volatile Flintbeetles",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Hunt_Wishes",
           "missable": true,
-          "type": "quest"
+          "type": "quest",
+          "locations": ["The Marrow"]
         },
         {
           "act": 1,
@@ -536,7 +560,8 @@
           "id": "crawbug-clearing-pre",
           "label": "Crawbug Clearing #1",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Hunt_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Greymoor"]
         },
         {
           "act": 1,
@@ -546,7 +571,8 @@
           "id": "crawbug-clearing",
           "label": "Crawbug Clearing #2",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Hunt_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Greymoor"]
         },
         {
           "act": 1,
@@ -557,7 +583,8 @@
           "label": "Roach Guts",
           "link": "https://hollowknight.wiki/w/Roach_Guts_(Wish)",
           "missable": true,
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Sinner's Road"]
         },
         {
           "act": 2,
@@ -628,7 +655,8 @@
           "label": "The Terrible Tyrant",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Grand_Hunt_Wishes",
           "missable": true,
-          "type": "quest"
+          "type": "quest",
+          "locations": ["The Marrow"]
         },
         {
           "act": 2,
@@ -638,7 +666,8 @@
           "id": "savage-beastfly",
           "label": "Savage Beastfly",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Grand_Hunt_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Far Fields"]
         },
         {
           "act": 2,
@@ -648,7 +677,8 @@
           "id": "the-wailing-mother",
           "label": "The Wailing Mother",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Grand_Hunt_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Slab"]
         },
         {
           "act": 3,
@@ -658,7 +688,8 @@
           "id": "the-hidden-hunter",
           "label": "The Hidden Hunter",
           "link": "https://hollowknight.wiki/w/The_Hidden_Hunter",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Deep Docks"]
         }
       ],
       "label": "Grand Hunt Wishes"
@@ -694,7 +725,8 @@
           "id": "restoration-of-bellhart",
           "label": "Restoration of Bellhart",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Donate_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Bellhart"]
         },
         {
           "act": 2,
@@ -715,7 +747,8 @@
           "id": "bellharts-glory",
           "label": "Bellhart's Glory",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Donate_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Bellhart"]
         },
         {
           "act": 2,
@@ -774,7 +807,8 @@
           "label": "Queen's Egg",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Delivery_Wishes",
           "mode": "normal",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Sinner's Road"]
         },
         {
           "act": 2,
@@ -784,6 +818,7 @@
           "id": "delivery-songclade-supplies",
           "label": "Songclave Supplies",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Delivery_Wishes",
+          "locations": ["Bellhart"],
           "type": "quest"
         },
         {
@@ -794,6 +829,7 @@
           "id": "delivery-songclade-supplies",
           "label": "Fleatopia Supplies",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Delivery_Wishes",
+          "locations": ["Bellhart"],
           "type": "quest"
         },
         {
@@ -804,7 +840,8 @@
           "id": "liquid-lacquer",
           "label": "Liquid Lacquer",
           "link": "https://hollowknight.wiki/w/Category:Wishes#Delivery_Wishes",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Mount Fay"]
         },
         {
           "act": 3,
@@ -840,7 +877,8 @@
           "id": "fastest-in-pharloom-1",
           "label": "Fastest in Pharloom #1",
           "link": "https://hollowknight.wiki/w/Fastest_in_Pharloom",
-          "type": "quest"
+          "type": "quest",
+          "locations": ["Far Fields"]
         },
         {
           "act": 3,

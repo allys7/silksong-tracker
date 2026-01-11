@@ -3,6 +3,7 @@
   "categories": [
     {
       "description": ".",
+      "locations": ["Moss Grotto"],
       "items": [
         {
           "act": 1,
@@ -121,6 +122,7 @@
     },
     {
       "description": ".",
+      "locations": ["The Marrow"],
       "items": [
         {
           "act": 1,
@@ -336,6 +338,7 @@
     },
     {
       "description": ".",
+      "locations": ["The Marrow"],
       "items": [
         {
           "act": 1,
@@ -694,6 +697,7 @@
     },
     {
       "description": ".",
+      "locations": ["Deep Docks"],
       "items": [
         {
           "act": 1,
@@ -1180,6 +1184,7 @@
     },
     {
       "description": ".",
+      "locations": ["Far Fields"],
       "items": [
         {
           "act": 1,
@@ -1730,6 +1735,7 @@
     },
     {
       "description": ".",
+      "locations": ["Hunter's March"],
       "items": [
         {
           "act": 1,
@@ -1960,6 +1966,7 @@
     },
     {
       "description": ".",
+      "locations": ["Weavenest Atla"],
       "items": [
         {
           "act": 1,
@@ -2126,6 +2133,7 @@
     },
     {
       "description": ".",
+      "locations": ["Wormways"],
       "items": [
         {
           "act": 1,
@@ -2308,6 +2316,7 @@
     },
     {
       "description": ".",
+      "locations": ["Shellwood"],
       "items": [
         {
           "act": 1,
@@ -2778,6 +2787,7 @@
     },
     {
       "description": ".",
+      "locations": ["Bellhart"],
       "items": [
         {
           "act": 1,
@@ -2992,6 +3002,7 @@
     },
     {
       "description": ".",
+      "locations": ["Greymoor"],
       "items": [
         {
           "act": 1,
@@ -3478,6 +3489,7 @@
     },
     {
       "description": ".",
+      "locations": ["Blasted Steps"],
       "items": [
         {
           "act": 1,
@@ -3772,6 +3784,7 @@
     },
     {
       "description": ".",
+      "locations": ["Wisp Thicket"],
       "items": [
         {
           "act": 1,
@@ -3874,6 +3887,7 @@
     },
     {
       "description": ".",
+      "locations": ["Sinner's Road"],
       "items": [
         {
           "act": 1,
@@ -4088,6 +4102,7 @@
     },
     {
       "description": ".",
+      "locations": ["Verdania"],
       "items": [
         {
           "act": 1,
@@ -4318,6 +4333,7 @@
     },
     {
       "description": ".",
+      "locations": ["Sands of Karak"],
       "items": [
         {
           "act": 1,
@@ -4580,6 +4596,7 @@
     },
     {
       "description": ".",
+      "locations": ["Grand Gate"],
       "items": [
         {
           "act": 1,
@@ -4650,6 +4667,7 @@
     },
     {
       "description": ".",
+      "locations": ["Choral Chambers"],
       "items": [
         {
           "act": 1,
@@ -5200,6 +5218,7 @@
     },
     {
       "description": ".",
+      "locations": ["Slab"],
       "items": [
         {
           "act": 1,
@@ -5606,6 +5625,7 @@
     },
     {
       "description": ".",
+      "locations": ["Mount Fay"],
       "items": [
         {
           "act": 1,
@@ -5932,6 +5952,7 @@
     },
     {
       "description": ".",
+      "locations": ["Underworks"],
       "items": [
         {
           "act": 1,
@@ -6434,6 +6455,7 @@
     },
     {
       "description": ".",
+      "locations": ["Whiteward"],
       "items": [
         {
           "act": 1,
@@ -6600,6 +6622,7 @@
     },
     {
       "description": ".",
+      "locations": ["Bilewater"],
       "items": [
         {
           "act": 1,
@@ -7102,6 +7125,7 @@
     },
     {
       "description": ".",
+      "locations": ["High Halls"],
       "items": [
         {
           "act": 1,
@@ -7364,6 +7388,7 @@
     },
     {
       "description": ".",
+      "locations": ["Cogwork Core"],
       "items": [
         {
           "act": 1,
@@ -7562,6 +7587,7 @@
     },
     {
       "description": ".",
+      "locations": ["Memorium"],
       "items": [
         {
           "act": 1,
@@ -7760,6 +7786,7 @@
     },
     {
       "description": ".",
+      "locations": ["Whispering Vaults"],
       "items": [
         {
           "act": 1,
@@ -7990,6 +8017,7 @@
     },
     {
       "description": ".",
+      "locations": ["Putrified Ducts"],
       "items": [
         {
           "act": 1,
@@ -8156,6 +8184,7 @@
     },
     {
       "description": ".",
+      "locations": ["Cradle"],
       "items": [
         {
           "act": 1,
@@ -8386,6 +8415,7 @@
     },
     {
       "description": ".",
+      "locations": ["Abyss"],
       "items": [
         {
           "act": 1,

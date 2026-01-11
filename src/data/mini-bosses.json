@@ -7,6 +7,7 @@
         {
           "act": 1,
           "description": "Far fields church (either in shopkeeper room or before opening gate might be missable).",
+          "locations": ["Far Fields"],
           "flag": "churchRhinoKilled",
           "icon": "mini-bosses/Rhinogrund.png",
           "id": "Rhinogrund-1",
@@ -25,6 +26,7 @@
         {
           "act": 2,
           "description": "Memorium.",
+          "locations": ["Memorium"],
           "flag": "Rhino",
           "icon": "mini-bosses/Rhinogrund.png",
           "id": "Rhinogrund-2",
@@ -44,6 +46,7 @@
         {
           "act": 3,
           "description": "Far fields church (either in shopkeeper room or before opening gate might be missable).",
+          "locations": ["Far Fields"],
           "flag": "Rhino",
           "icon": "mini-bosses/Rhinogrund.png",
           "id": "Rhinogrund-3",
@@ -69,6 +72,7 @@
         {
           "act": 1,
           "description": "Shellwood in the room with the grave.",
+          "locations": ["Shellwood"],
           "flag": "Rosary Pilgrim",
           "icon": "mini-bosses/Covetous_Pilgrim.png",
           "id": "Covetous_Pilgrim_1",
@@ -88,6 +92,7 @@
         {
           "act": 2,
           "description": "Bilewater (after shakra leaves).",
+          "locations": ["Bilewater"],
           "flag": "Rosary Pilgrim",
           "icon": "mini-bosses/Covetous_Pilgrim.png",
           "id": "Covetous_Pilgrim_2",
@@ -107,6 +112,7 @@
         {
           "act": 3,
           "description": "Bone bottom Chapel of the Wanderer at Bonegrave.",
+          "locations": ["The Marrow"],
           "flag": "Rosary Pilgrim",
           "icon": "mini-bosses/Covetous_Pilgrim.png",
           "id": "Covetous_Pilgrim_3",
@@ -132,6 +138,7 @@
         {
           "act": 3,
           "description": "The Marrow.",
+          "locations": ["The Marrow"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_1",
@@ -151,6 +158,7 @@
         {
           "act": 3,
           "description": "The Marrow.",
+          "locations": ["The Marrow"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_2",
@@ -170,6 +178,7 @@
         {
           "act": 3,
           "description": "Mosshome.",
+          "locations": ["Moss Grotto"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_3",
@@ -189,6 +198,7 @@
         {
           "act": 3,
           "description": "The Marrow.",
+          "locations": ["The Marrow"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_4",
@@ -208,6 +218,7 @@
         {
           "act": 3,
           "description": "The Marrow.",
+          "locations": ["The Marrow"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_5",
@@ -227,6 +238,7 @@
         {
           "act": 3,
           "description": "Far Fields.",
+          "locations": ["Far Fields"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_6",
@@ -246,6 +258,7 @@
         {
           "act": 3,
           "description": "Deep Docks.",
+          "locations": ["Deep Docks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_7",
@@ -265,7 +278,8 @@
         {
           "act": 3,
           "description": "Hunter's March.",
-          "flag": "Black_Thread_Core",
+          "locations": ["Hunter's March"],
+          "flag": "Black_Thread_CORE",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_8",
           "label": "Kill #8",
@@ -284,6 +298,7 @@
         {
           "act": 3,
           "description": "Hunter's March.",
+          "locations": ["Hunter's March"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_9",
@@ -303,6 +318,7 @@
         {
           "act": 3,
           "description": "Greymoor.",
+          "locations": ["Greymoor"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_10",
@@ -322,6 +338,7 @@
         {
           "act": 3,
           "description": "Greymoor.",
+          "locations": ["Greymoor"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_11",
@@ -341,6 +358,7 @@
         {
           "act": 3,
           "description": "Greymoor.",
+          "locations": ["Greymoor"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_12",
@@ -360,7 +378,8 @@
         {
           "act": 3,
           "description": "Shellwood.",
-          "flag": "Black_Thread_Core",
+          "locations": ["Shellwood"],
+          "flag": "Black_Thread_CORE",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_13",
           "label": "Kill #13",
@@ -379,6 +398,7 @@
         {
           "act": 3,
           "description": "Shellwood.",
+          "locations": ["Shellwood"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_14",
@@ -398,6 +418,7 @@
         {
           "act": 3,
           "description": "Shellwood.",
+          "locations": ["Shellwood"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_15",
@@ -417,6 +438,7 @@
         {
           "act": 3,
           "description": "Shellwood.",
+          "locations": ["Shellwood"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_16",
@@ -436,6 +458,7 @@
         {
           "act": 3,
           "description": "Shellwood.",
+          "locations": ["Shellwood"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_17",
@@ -455,7 +478,8 @@
         {
           "act": 3,
           "description": "Greymoor.",
-          "flag": "Black_Thread_Core",
+          "locations": ["Greymoor"],
+          "flag": "Black_Thread_CORE",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_18",
           "label": "Kill #18",
@@ -474,6 +498,7 @@
         {
           "act": 3,
           "description": "Greymoor.",
+          "locations": ["Greymoor"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_19",
@@ -493,6 +518,7 @@
         {
           "act": 3,
           "description": "Sinner's Road.",
+          "locations": ["Sinner's Road"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_20",
@@ -512,7 +538,8 @@
         {
           "act": 3,
           "description": "Far Fields.",
-          "flag": "Black_Thread_Core",
+          "locations": ["Far Fields"],
+          "flag": "Black_Thread_CORE",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_21",
           "label": "Kill #21",
@@ -531,6 +558,7 @@
         {
           "act": 3,
           "description": "Blasted Steps.",
+          "locations": ["Blasted Steps"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_22",
@@ -550,6 +578,7 @@
         {
           "act": 3,
           "description": "Blasted Steps.",
+          "locations": ["Blasted Steps"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_23",
@@ -569,6 +598,7 @@
         {
           "act": 3,
           "description": "Underworks.",
+          "locations": ["Underworks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_24",
@@ -588,6 +618,7 @@
         {
           "act": 3,
           "description": "Underworks.",
+          "locations": ["Underworks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_25",
@@ -607,6 +638,7 @@
         {
           "act": 3,
           "description": "Choral Chambers.",
+          "locations": ["Choral Chambers"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_26",
@@ -626,6 +658,7 @@
         {
           "act": 3,
           "description": "Choral Chambers.",
+          "locations": ["Choral Chambers"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_27",
@@ -659,11 +692,13 @@
           },
           "scene": "Song_15",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["Choral Chambers"]
         },
         {
           "act": 3,
           "description": "Choral Chambers.",
+          "locations": ["Choral Chambers"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_29",
@@ -683,6 +718,7 @@
         {
           "act": 3,
           "description": "Choral Chambers.",
+          "locations": ["Choral Chambers"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_30",
@@ -702,6 +738,7 @@
         {
           "act": 3,
           "description": "Choral Chambers.",
+          "locations": ["Choral Chambers"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_31",
@@ -721,6 +758,7 @@
         {
           "act": 3,
           "description": "Whispering Vaults.",
+          "locations": ["Whispering Vaults"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_32",
@@ -740,6 +778,7 @@
         {
           "act": 3,
           "description": "Whispering Vaults.",
+          "locations": ["Whispering Vaults"],
           "flag": "Black_Thread_Core_Citadel (1)",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_33",
@@ -759,6 +798,7 @@
         {
           "act": 3,
           "description": "Cogwork Core.",
+          "locations": ["Cogwork Core"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_34",
@@ -778,6 +818,7 @@
         {
           "act": 3,
           "description": "Underworks.",
+          "locations": ["Underworks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_35",
@@ -797,6 +838,7 @@
         {
           "act": 3,
           "description": "Bilewater.",
+          "locations": ["Bilewater"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_36",
@@ -816,6 +858,7 @@
         {
           "act": 3,
           "description": "Deep Docks.",
+          "locations": ["Deep Docks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_37",
@@ -835,6 +878,7 @@
         {
           "act": 3,
           "description": "Whispering Vaults.",
+          "locations": ["Whispering Vaults"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_38",
@@ -854,6 +898,7 @@
         {
           "act": 3,
           "description": "High Halls.",
+          "locations": ["High Halls"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_39",
@@ -873,6 +918,7 @@
         {
           "act": 3,
           "description": "High Halls.",
+          "locations": ["High Halls"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_40",
@@ -892,6 +938,7 @@
         {
           "act": 3,
           "description": "Weavenest Atla.",
+          "locations": ["Weavenest Atla"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_41",
@@ -911,6 +958,7 @@
         {
           "act": 3,
           "description": "Deep Docks.",
+          "locations": ["Deep Docks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_42",
@@ -930,6 +978,7 @@
         {
           "act": 3,
           "description": "Underworks.",
+          "locations": ["Underworks"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_43",
@@ -949,6 +998,7 @@
         {
           "act": 3,
           "description": "Blasted Steps.",
+          "locations": ["Blasted Steps"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_44",
@@ -968,6 +1018,7 @@
         {
           "act": 3,
           "description": "Far Fields.",
+          "locations": ["Far Fields"],
           "flag": "Black_Thread_Core_Citadel",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_45",
@@ -987,6 +1038,7 @@
         {
           "act": 3,
           "description": "Far Fields.",
+          "locations": ["Far Fields"],
           "flag": "Black_Thread_Core",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_46",
@@ -1006,6 +1058,7 @@
         {
           "act": 3,
           "description": "Sinner's Road.",
+          "locations": ["Sinner's Road"],
           "flag": "silkFarmAbyssCoresCleared",
           "icon": "mini-bosses/Void_Mass.png",
           "id": "Void_Mass_47",
@@ -1046,7 +1099,8 @@
           "required": -1,
           "scene": "Bone_East_03",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["Deep Docks"]
         },
         {
           "act": 1,
@@ -1066,7 +1120,8 @@
           "required": -1,
           "scene": "Greymoor_17",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["Greymoor"]
         },
         {
           "act": 2,
@@ -1086,7 +1141,8 @@
           "required": -1,
           "scene": "Coral_38",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["Sands of Karak"]
         },
         {
           "act": 1,
@@ -1106,7 +1162,8 @@
           "required": -1,
           "scene": "Bone_06",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["The Marrow"]
         },
         {
           "act": 1,
@@ -1126,7 +1183,8 @@
           "required": -1,
           "scene": "Bone_14",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["The Marrow"]
         },
         {
           "act": 1,
@@ -1146,7 +1204,8 @@
           "required": -1,
           "scene": "Bone_East_14",
           "showOnMap": true,
-          "type": "sceneBool"
+          "type": "sceneBool",
+          "locations": ["Far Fields"]
         }
       ],
       "label": "Shardillard"

@@ -7,6 +7,7 @@
         {
           "act": 1,
           "description": "The Bell Beast is initially found trapped in Silk at The Marrow's Bellway Station.",
+          "locations": ["The Marrow"],
           "flag": "defeatedBellBeast",
           "icon": "boss/Bell_Beast.png",
           "id": "bell_beast",
@@ -25,6 +26,7 @@
         {
           "act": 3,
           "description": "Bell Eater can be found in any Bellway Station after the beginning of Act 3. When calling the Bell Beast, the Bell Eater will instead pop its head out of the ground before returning to the Bellways.",
+          "locations": ["The Marrow"],
           "flag": "bellCentipedeAppeared",
           "icon": "boss/Bell_Eater.png",
           "id": "bell_eater",
@@ -43,6 +45,7 @@
         {
           "act": 2,
           "description": "Broodmother can be found in a cave in the Slab after accepting the Grand Hunt wish in Songclave.",
+          "locations": ["Slab"],
           "flag": "defeatedBroodMother",
           "icon": "boss/Broodmother.png",
           "id": "broodmother",
@@ -61,6 +64,7 @@
         {
           "act": 2,
           "description": "Cogwork Dancers are found in Cogwork Core.",
+          "locations": ["Cogwork Core"],
           "flag": "defeatedCogworkDancers",
           "icon": "boss/Cogwork_Dancers.png",
           "id": "cogwork_dancers",
@@ -79,6 +83,7 @@
         {
           "act": 3,
           "description": "Crawfather can be found in Greymoor, in the basement of the large building in Craw Lake. Once Hornet obtains the Craw Summons and presents it to the door inside the building, she can head down into the Craw Court.",
+          "locations": ["Greymoor"],
           "flag": "defeatedCrowCourt",
           "icon": "boss/Crawfather.png",
           "id": "crawfather",
@@ -97,6 +102,7 @@
         {
           "act": 3,
           "description": "Crust King Khann can be found atop the Coral Tower after using Elegy of the Deep on his corpse in the west of Sands of Karak.",
+          "locations": ["Sands of Karak"],
           "flag": "defeatedCoralKing",
           "icon": "boss/Crust_King_Khann.png",
           "id": "khann",
@@ -115,6 +121,7 @@
         {
           "act": 2,
           "description": "Eastern end of Sinner's Road, requires Faydown Cloak.",
+          "locations": ["Sinner's Road"],
           "flag": "defeatedRoachkeeperChef",
           "icon": "boss/Disgraced_Chef_Lugoli.png",
           "id": "lugoli",
@@ -133,6 +140,7 @@
         {
           "act": 2,
           "description": "Father of the Flame can be found in Wisp Thicket.",
+          "locations": ["Wisp Thicket"],
           "flag": "defeatedWispPyreEffigy",
           "icon": "boss/Father_of_the_Flame.png",
           "id": "father_flame",
@@ -151,6 +159,7 @@
         {
           "act": 2,
           "description": "First Sinner can be found in the lower area of the Slab, accessible after obtaining the Key of Apostate.",
+          "locations": ["Slab"],
           "flag": "defeatedFirstWeaver",
           "icon": "boss/First_Sinner.png",
           "id": "first_sinner",
@@ -169,6 +178,7 @@
         {
           "act": 2,
           "description": "Forebrothers Signis & Gron can be found in the southern region of Deep Docks. The route to them is barred by a locked door that can only be opened by hanging on the nearby Clawline hook. Hornet must then navigate across the lower Deep Docks, dodging around Gron's attacks before finally reaching their arena.",
+          "locations": ["Deep Docks"],
           "flag": "defeatedDockForemen",
           "icon": "boss/Forebrothers_Signis_&_Gron.png",
           "id": "forebrothers",
@@ -187,6 +197,7 @@
         {
           "act": 1,
           "description": "Fourth Chorus is found in a large central area of the Far Fields.",
+          "locations": ["Far Fields"],
           "flag": "defeatedSongGolem",
           "icon": "boss/Fourth_Chorus.png",
           "id": "fourth_chorus",
@@ -205,6 +216,15 @@
         {
           "act": 2,
           "description": "They can be first met in Greymoor, in a small outcropping to the upper left of the Bellway Station. They can also be seen in Sinner's Road briefly, in the long room right above where Disgraced Chef Lugoli can be found, having beaten a Roachkeeper. In Act 3, they can be found in The Marrow, Mosshome, Far Fields, Greymoor, Sinner's Road, Shellwood, or Blasted Steps.",
+          "locations": [
+            "The Marrow",
+            "Moss Grotto",
+            "Far Fields",
+            "Greymoor",
+            "Sinner's Road",
+            "Shellwood",
+            "Blasted Steps"
+          ],
           "flag": "Garmond_Zaza",
           "icon": "boss/Garmond_&_Zaza.png",
           "id": "garmond_zaza",
@@ -225,6 +245,7 @@
         {
           "act": 2,
           "description": "Grand Mother Silk is located at the top of The Cradle which is unlocked after defeating Lace in her second encounter.",
+          "locations": ["Cradle"],
           "flag": "Silk Boss",
           "icon": "boss/Grand_Mother_Silk.png",
           "id": "grand_mother_silk",
@@ -244,6 +265,7 @@
         {
           "act": 1,
           "description": "The Great Conchflies can be found below the Blasted Steps Bellway, west of the central tall room, the entrance marked by a blue banner displaying crossed pins.",
+          "locations": ["Blasted Steps"],
           "flag": "defeatedCoralDrillers",
           "icon": "boss/Great_Conchflies.png",
           "id": "great_conchflies",
@@ -262,6 +284,7 @@
         {
           "act": 2,
           "description": "Bilehaven, in the upper area of Bilewater.",
+          "locations": ["Bilewater"],
           "flag": "DefeatedSwampShaman",
           "icon": "boss/Groal_the_Great.png",
           "id": "groal_the_great",
@@ -280,6 +303,7 @@
         {
           "act": 3,
           "description": "Gurr the Outcast can be found in Far Fields after promising the The Hidden Hunter wish.",
+          "locations": ["Far Fields"],
           "flag": "defeatedAntTrapper",
           "icon": "boss/Gurr_the_Outcast.png",
           "id": "gurr_outcast",
@@ -298,6 +322,7 @@
         {
           "act": 1,
           "description": "Lace's first encounter is within the Deep Docks.",
+          "locations": ["Deep Docks"],
           "flag": "defeatedLace1",
           "icon": "boss/Lace.png",
           "id": "lace",
@@ -316,6 +341,7 @@
         {
           "act": 1,
           "description": "The Last Judge is located in the north east of the Blasted Steps. All five Bellshrines must be activated before The Last Judge can be fought.",
+          "locations": ["Blasted Steps"],
           "flag": "defeatedLastJudge",
           "icon": "boss/Last_Judge.png",
           "id": "last_judge",
@@ -334,6 +360,7 @@
         {
           "act": 1,
           "description": "It is typically fought at the west edge of Greymoor, guarding the entrance to Bellhart. If skipped, it can later be fought west of the Greymoor Bellway instead.",
+          "locations": ["Greymoor", "Bellhart"],
           "flag": "defeatedVampireGnatBoss",
           "icon": "boss/Moorwing.png",
           "id": "moorwing",
@@ -352,6 +379,7 @@
         {
           "act": 1,
           "description": "Moss Mother is found in the Ruined Chapel, a sub-area of the Moss Grotto, and in a hidden section of Weavenest Atla. One can also be found within Moss Grotto itself, corrupted by Void in Act 3.",
+          "locations": ["Moss Grotto", "Weavenest Atla"],
           "flag": "defeatedMossMother",
           "icon": "boss/Moss_Mother.png",
           "id": "moss_mother",
@@ -370,6 +398,7 @@
         {
           "act": 3,
           "description": "Nyleth is found in a section behind a breakable wall on the left of the lift shaft of the Grand Gate. To access her, Shrine Guardian Seth must first be defeated.",
+          "locations": ["Grand Gate"],
           "flag": "defeatedFlowerQueen",
           "icon": "boss/Nyleth.png",
           "id": "nyleth",
@@ -388,6 +417,7 @@
         {
           "act": 3,
           "description": "The Palestag can be found in Lost Verdania. (This is missable if you kill the Clover Dancers before Palestag.)",
+          "locations": ["Verdania"],
           "flag": "defeatedWhiteCloverstag",
           "icon": "boss/Palestag.png",
           "id": "palestag",
@@ -407,6 +437,7 @@
         {
           "act": 1,
           "description": "The Phantom can be found in Exhaust Organ, in Bilewater, accessed through The Mist in Sinner's Road from the west or Bilewater from the east.",
+          "locations": ["Bilewater", "Sinner's Road"],
           "flag": "defeatedPhantom",
           "icon": "boss/Phantom.png",
           "id": "phantom",
@@ -425,6 +456,7 @@
         {
           "act": 3,
           "description": "Pinstress can be found west of the Great Conchflies boss area in Blasted Steps. From the boss area, travel west. Her floating home will be found near the western edge of a large outdoor area. During Fatal Resolve, she can be found in Mount Fay, in the same area as the bench halfway up the mountain.",
+          "locations": ["Blasted Steps", "Mount Fay"],
           "flag": "PinstressPeakBattleAccepted",
           "icon": "boss/Pinstress.png",
           "id": "pinstress",
@@ -443,6 +475,7 @@
         {
           "act": 3,
           "description": "Plasmified Zango can be found in a secret room within western Wormways during Act 3.",
+          "locations": ["Wormways"],
           "flag": "Blue Assistant",
           "icon": "boss/Plasmified_Zango.png",
           "id": "plasmified_zango",
@@ -462,6 +495,7 @@
         {
           "act": 1,
           "description": "Savage Beastfly can be found in Hunter's March and in Far Fields, where Fourth Chorus was fought, during the Savage Beastfly wish.",
+          "locations": ["Hunter's March", "Far Fields"],
           "flag": "defeatedBoneFlyerGiant",
           "icon": "boss/Savage_Beastfly.png",
           "id": "savage_beastfly",
@@ -480,6 +514,7 @@
         {
           "act": 2,
           "description": "Second Sentinel first appears as a statue in the west portion of the Cogwork Core.",
+          "locations": ["Cogwork Core"],
           "flag": "defeatedSongChevalierBoss",
           "icon": "boss/Second_Sentinel.png",
           "id": "second_sentinel",
@@ -498,6 +533,7 @@
         {
           "act": 2,
           "description": "Once the Wish Trail's End is completed, Shakra can be met just outside the Greymoor entrance to Bellhart by ringing her post, where she will challenge Hornet to a friendly duel.",
+          "locations": ["Greymoor", "Bellhart"],
           "flag": "Shakra",
           "icon": "boss/Shakra.png",
           "id": "shakra",
@@ -518,6 +554,7 @@
         {
           "act": 3,
           "description": "Seth is fought in a hidden area in Grand Gate, accessed through a breakable wall in the lift shaft. After his defeat, he becomes an NPC that will visit Greymoor, Shellwood, Grand Gate (if the Everbloom has not been obtained), and lastly Fleatopia.",
+          "locations": ["Grand Gate", "Greymoor", "Shellwood"],
           "flag": "defeatedSeth",
           "icon": "boss/Shrine_Guardian_Seth.png",
           "id": "seth",
@@ -536,6 +573,7 @@
         {
           "act": 1,
           "description": "Sister Splinter is a boss located at the top of Shellwood.",
+          "locations": ["Shellwood"],
           "flag": "defeatedSplinterQueen",
           "icon": "boss/Sister_Splinter.png",
           "id": "sister_splinter",
@@ -554,6 +592,7 @@
         {
           "act": 3,
           "description": "Skarrsinger Karmelita is found in the northeast of Far Fields. The path to her starts at her statue in Hunter's March in a hidden passage requiring the Silk Soar skill to enter.",
+          "locations": ["Far Fields", "Hunter's March"],
           "flag": "defeatedAntQueen",
           "icon": "boss/Skarrsinger_Karmelita.png",
           "id": "karmelita",
@@ -572,6 +611,7 @@
         {
           "act": 1,
           "description": "Skull Tyrant can be found in The Marrow. A second one may appear in Bone Bottom.",
+          "locations": ["The Marrow", "Moss Grotto"],
           "flag": "skullKingDefeated",
           "icon": "boss/Skull_Tyrant.png",
           "id": "skull_tyrant",
@@ -590,6 +630,7 @@
         {
           "act": 3,
           "description": "Summoned Saviour can be found southwest of Bonegrave, a sub area of Moss Grotto, behind a breakable wall. It is only accessible in Steel Soul Mode and after finding three resting sites for the A Vassal Lost Task.",
+          "locations": ["Moss Grotto"],
           "flag": "Abyss Mass",
           "icon": "boss/Summoned_Saviour.png",
           "id": "summoned_saviour",
@@ -610,6 +651,7 @@
         {
           "act": 2,
           "description": "The Unravelled can be found in a locked room in the south-west of Whiteward, requiring Surgeon's Key to access.",
+          "locations": ["Whiteward"],
           "flag": "wardBossDefeated",
           "icon": "boss/The_Unravelled.png",
           "id": "the_unravelled",
@@ -628,6 +670,7 @@
         {
           "act": 2,
           "description": "Trobbio is located in The Stage between Choral Chambers and Whispering Vaults.",
+          "locations": ["Whispering Vaults"],
           "flag": "defeatedTrobbio",
           "icon": "boss/Trobbio.png",
           "id": "trobbio",
@@ -646,6 +689,7 @@
         {
           "act": 2,
           "description": "Voltvyrm is found in Voltnest within Sands of Karak.",
+          "locations": ["Sands of Karak"],
           "flag": "defeatedZapCoreEnemy",
           "icon": "boss/Voltvyrm.png",
           "id": "voltvyrm",
@@ -664,6 +708,7 @@
         {
           "act": 3,
           "description": "Located in a hidden zone inside of Sands of Karak, requiring Silk Soar to reach. They stand vigil like a statue. Using the Needolin wakes them and begins the fight.",
+          "locations": ["Sands of Karak"],
           "flag": "defeatedGreyWarrior",
           "icon": "boss/Watcher_at_the_Edge.png",
           "id": "watcher_edge",
@@ -682,6 +727,7 @@
         {
           "act": 1,
           "description": "Widow can be found in Bellhart above the town after entering and traversing the Bell Veins area. The entrance is found in the upper right corner of Shellwood, though an additional route - just to the right of Shellwood's right-most bench - can be unlocked after reaching the tunnel above Widow's arena.",
+          "locations": ["Bellhart", "Shellwood"],
           "flag": "spinnerDefeated",
           "icon": "boss/Widow.png",
           "id": "widow",
@@ -711,6 +757,7 @@
           "id": "clover_dancers",
           "label": "Clover Dancers",
           "link": "https://hollowknight.wiki/w/Clover_Dancers",
+          "locations": ["Verdania"],
           "mapCategory": "variants-boss",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -729,6 +776,7 @@
           "id": "lost_garmond",
           "label": "Lost Garmond",
           "link": "https://hollowknight.wiki/w/Lost_Garmond",
+          "locations": ["Blasted Steps"],
           "mapCategory": "variants-boss",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -747,6 +795,7 @@
           "id": "lost_lace",
           "label": "Lost Lace",
           "link": "https://hollowknight.wiki/w/Lost_Lace",
+          "locations": ["Abyss"],
           "mapCategory": "variants-boss",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -766,6 +815,7 @@
           "id": "raging_conchfly",
           "label": "Raging Conchfly",
           "link": "https://hollowknight.wiki/w/Raging_Conchfly",
+          "locations": ["Sands of Karak"],
           "mapCategory": "variants-boss",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",
@@ -784,6 +834,7 @@
           "id": "tormented_trobbio",
           "label": "Tormented Trobbio",
           "link": "https://hollowknight.wiki/w/Tormented_Trobbio",
+          "locations": ["Whispering Vaults"],
           "mapCategory": "variants-boss",
           "mapViewer": {
             "src": "assets/ui/labelled_map_act3.png",

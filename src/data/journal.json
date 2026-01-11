@@ -28,7 +28,10 @@
           "link": "https://hollowknight.wiki/w/Massive_Mossgrub",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480252",
           "required": 3,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Memorium"
+          ]
         },
         {
           "act": 1,
@@ -80,7 +83,10 @@
           "link": "https://hollowknight.wiki/w/Skull_Scuttler",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479543",
           "required": 35,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "The Marrow"
+          ]
         },
         {
           "act": 1,
@@ -93,7 +99,10 @@
           "link": "https://hollowknight.wiki/w/Skullwing",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479074",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "The Marrow"
+          ]
         },
         {
           "act": 1,
@@ -119,7 +128,10 @@
           "link": "https://hollowknight.wiki/w/Skull_Tyrant",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480313",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "The Marrow"
+          ]
         },
         {
           "act": 1,
@@ -574,7 +586,10 @@
           "link": "https://hollowknight.wiki/w/Smokerock_Sifter",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479567",
           "required": 10,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Deep Docks"
+          ]
         },
         {
           "act": 1,
@@ -600,7 +615,10 @@
           "link": "https://hollowknight.wiki/w/Forebrothers_Signis_&_Gron",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480314",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Deep Docks"
+          ]
         },
         {
           "act": 1,
@@ -652,7 +670,10 @@
           "link": "https://hollowknight.wiki/w/Fertid",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479561",
           "required": 25,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Far Fields"
+          ]
         },
         {
           "act": 1,
@@ -665,7 +686,10 @@
           "link": "https://hollowknight.wiki/w/Flapping_Fertid",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479562",
           "required": 20,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Far Fields"
+          ]
         },
         {
           "act": 1,
@@ -808,7 +832,10 @@
           "link": "https://hollowknight.wiki/w/Mite",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479681",
           "required": 30,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Greymoor"
+          ]
         },
         {
           "act": 1,
@@ -1159,7 +1186,10 @@
           "link": "https://hollowknight.wiki/w/Mothleaf_Lagnia",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478738",
           "required": 25,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Bilewater"
+          ]
         },
         {
           "act": 1,
@@ -1276,7 +1306,10 @@
           "link": "https://hollowknight.wiki/w/Pond_Skipper",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478159",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1289,7 +1322,10 @@
           "link": "https://hollowknight.wiki/w/Pondcatcher",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478161",
           "required": 20,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1302,7 +1338,10 @@
           "link": "https://hollowknight.wiki/w/Shellwood_Gnat",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478983",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1315,7 +1354,10 @@
           "link": "https://hollowknight.wiki/w/Wood_Wasp",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=478160",
           "required": 12,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1367,7 +1409,10 @@
           "link": "https://hollowknight.wiki/w/Sister_Splinter",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480324",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1419,7 +1464,10 @@
           "link": "https://hollowknight.wiki/w/Shrine_Guardian_Seth",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480352",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1432,7 +1480,10 @@
           "link": "https://hollowknight.wiki/w/Nyleth",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480353",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Shellwood"
+          ]
         },
         {
           "act": 1,
@@ -1536,7 +1587,10 @@
           "link": "https://hollowknight.wiki/w/Judge",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479736",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Blasted Steps"
+          ]
         },
         {
           "act": 1,
@@ -1549,7 +1603,10 @@
           "link": "https://hollowknight.wiki/w/Last_Judge",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480351",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Blasted Steps"
+          ]
         },
         {
           "act": 1,
@@ -1653,7 +1710,10 @@
           "link": "https://hollowknight.wiki/w/Crustcrag",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480243",
           "required": 6,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Memorium"
+          ]
         },
         {
           "act": 1,
@@ -1900,7 +1960,10 @@
           "link": "https://hollowknight.wiki/w/Underworker",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479512",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Underworks"
+          ]
         },
         {
           "act": 1,
@@ -1952,7 +2015,10 @@
           "link": "https://hollowknight.wiki/w/Underloft",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479511",
           "required": 25,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Underworks"
+          ]
         },
         {
           "act": 1,
@@ -1965,7 +2031,10 @@
           "link": "https://hollowknight.wiki/w/Undercrank",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479836",
           "required": 4,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Underworks"
+          ]
         },
         {
           "act": 1,
@@ -2121,7 +2190,10 @@
           "link": "https://hollowknight.wiki/w/Memoria",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480239",
           "required": 2,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Memorium"
+          ]
         },
         {
           "act": 1,
@@ -2147,7 +2219,10 @@
           "link": "https://hollowknight.wiki/w/Maestro",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480049",
           "required": 6,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "High Halls"
+          ]
         },
         {
           "act": 1,
@@ -2199,7 +2274,10 @@
           "link": "https://hollowknight.wiki/w/Surgeon",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480409",
           "required": 3,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Whiteward"
+          ]
         },
         {
           "act": 1,
@@ -2212,7 +2290,10 @@
           "link": "https://hollowknight.wiki/w/Mortician",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480040",
           "required": 10,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Whiteward"
+          ]
         },
         {
           "act": 1,
@@ -2238,7 +2319,10 @@
           "link": "https://hollowknight.wiki/w/Cogwork_Underfly",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480021",
           "required": 25,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Underworks"
+          ]
         },
         {
           "act": 1,
@@ -2316,7 +2400,10 @@
           "link": "https://hollowknight.wiki/w/Cogwork_Cleanser",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479968",
           "required": 12,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Cogwork Core"
+          ]
         },
         {
           "act": 1,
@@ -2381,7 +2468,10 @@
           "link": "https://hollowknight.wiki/w/Lampbearer",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479994",
           "required": 20,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Whispering Vaults"
+          ]
         },
         {
           "act": 1,
@@ -2394,7 +2484,10 @@
           "link": "https://hollowknight.wiki/w/Scrollreader",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479991",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Whispering Vaults"
+          ]
         },
         {
           "act": 1,
@@ -2407,7 +2500,10 @@
           "link": "https://hollowknight.wiki/w/Vaultkeeper",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479999",
           "required": 10,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Whispering Vaults"
+          ]
         },
         {
           "act": 1,
@@ -2485,7 +2581,10 @@
           "link": "https://hollowknight.wiki/w/Scabfly",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479008",
           "required": 15,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Slab"
+          ]
         },
         {
           "act": 1,
@@ -2498,7 +2597,10 @@
           "link": "https://hollowknight.wiki/w/Guardfly",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479007",
           "required": 10,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Slab"
+          ]
         },
         {
           "act": 1,
@@ -2511,7 +2613,10 @@
           "link": "https://hollowknight.wiki/w/Wardenfly",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479011",
           "required": 8,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Sinner's Road"
+          ]
         },
         {
           "act": 1,
@@ -2524,7 +2629,10 @@
           "link": "https://hollowknight.wiki/w/Broodmother",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480338",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Slab"
+          ]
         },
         {
           "act": 1,
@@ -2537,7 +2645,10 @@
           "link": "https://hollowknight.wiki/w/Driftlin",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=479036",
           "required": 20,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Mount Fay"
+          ]
         },
         {
           "act": 1,
@@ -2719,7 +2830,10 @@
           "link": "https://hollowknight.wiki/w/Cloverstag",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480221",
           "required": 10,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Verdania"
+          ]
         },
         {
           "act": 1,
@@ -2732,7 +2846,10 @@
           "link": "https://hollowknight.wiki/w/Palestag",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480321",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Verdania"
+          ]
         },
         {
           "act": 1,
@@ -2745,7 +2862,10 @@
           "link": "https://hollowknight.wiki/w/Kindanir",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480215",
           "required": 10,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Verdania"
+          ]
         },
         {
           "act": 1,
@@ -2784,7 +2904,10 @@
           "link": "https://hollowknight.wiki/w/Clover_Dancers",
           "map": "https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationIds=480322",
           "required": 1,
-          "type": "journal"
+          "type": "journal",
+          "locations": [
+            "Verdania"
+          ]
         },
         {
           "act": 1,
