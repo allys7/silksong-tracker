@@ -2308,7 +2308,7 @@ main::-webkit-scrollbar-thumb:hover {
 .dropdown-menu {
   position: absolute;
   top: 110%;
-  left: 0;
+  right: 0;
   min-width: 160px;
   background: var(--bg-2);
   border: 1px solid var(--stroke);
@@ -2322,6 +2322,22 @@ main::-webkit-scrollbar-thumb:hover {
 
 .dropdown-menu.hidden {
   display: none;
+}
+
+/* Location list specific layout: display as a multi-column grid */
+.dropdown-menu .locations-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px 8px;
+  padding: 6px 12px;
+  width: max-content;
+}
+
+/* Ensure items inside the locations grid are block-level and wrap nicely */
+.dropdown-menu .locations-list label {
+  padding: 4px 6px;
+  width: 100%;
+  white-space: nowrap;
 }
 
 .dropdown-menu input[type="checkbox"] {

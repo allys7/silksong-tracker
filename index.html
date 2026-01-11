@@ -130,6 +130,22 @@
             </div>
           </div>
 
+          <!-- Location Filter -->
+          <div id="location-filter" class="dropdown">
+            <button class="dropdown-toggle" id="location-dropdown-button">
+              <i class="fa-solid fa-map-pin"></i> Location
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+
+            <div id="location-dropdown-menu" class="dropdown-menu hidden">
+              <div class="dropdown-actions">
+                <button class="select-all-btn btn-small">Select All</button>
+                <button class="clear-btn btn-small">Clear</button>
+              </div>
+              <div class="locations-list"></div>
+            </div>
+          </div>
+
           <label class="toggle">
             <input type="checkbox" id="show-only-missing" /> Show only missing
           </label>
