@@ -1,4 +1,5 @@
 import type { Act } from "./Act.ts";
+import type { Location } from "./Location.ts";
 import type { Mode } from "./Mode.ts";
 
 interface ItemBase {
@@ -25,6 +26,8 @@ interface ItemBase {
   readonly mode?: Mode;
   readonly description?: string;
   readonly category?: string;
+
+  readonly locations?: readonly Location[];
 
   unlockedFromUrl?: boolean;
 }
