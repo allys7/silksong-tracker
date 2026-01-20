@@ -1,5 +1,10 @@
 import { assertArray } from "complete-common";
 import { getStoredActFilter } from "../components/acts-dropdown.ts";
+import {
+  getStoredLocationFilter,
+  setAvailableLocations,
+  UNSPECIFIED_LOCATION,
+} from "../components/location-filter.ts";
 import { showOnlyMissing } from "../components/show-only-missing.ts";
 import { showSpoilers } from "../components/show-spoilers.ts";
 import { BASE_PATH } from "../constants.ts";
@@ -33,6 +38,23 @@ let tocObserver: IntersectionObserver | undefined;
 let isManualScroll = false; // prevent observer interference
 
 export function updateTabProgress(): void {
+  // Populate the location filter from scenes data. Prefer explicit `locations` on each category,
+  // falling back to the category label when absent. The `setAvailableLocations` call will
+  // canonicalize values against `ALL_LOCATIONS`.
+  const locations = new Set<string>();
+  for (const cat of scenesJSON.categories as any[]) {
+    if (Array.isArray(cat.locations)) {
+      for (const l of cat.locations) {
+        if (typeof l === "string") {
+          locations.add(l);
+        }
+      }
+    } else if (typeof cat.label === "string") {
+      locations.add(cat.label);
+    }
+  }
+  setAvailableLocations([...locations]);
+
   initProgressListeners();
   const spoilerOn = showSpoilers.checked;
   const showMissingOnly = showOnlyMissing.checked;
@@ -104,6 +126,39 @@ export function updateTabProgress(): void {
       let filteredItems = items.filter(
         (item: Item) => actFilter.includes(item.act) && matchMode(item),
       );
+
+      // Apply location filter (if any locations selected). Items inherit locations from their
+      // parent category when an explicit `locations` array is not present on the item itself.
+      const activeLocations = getStoredLocationFilter();
+      if (activeLocations.length > 0) {
+        const categoryLocations =
+          Array.isArray((category as any).locations)
+          && (category as any).locations.length > 0
+            ? (category as any).locations
+            : [category.label];
+
+        const wantsUnspecified = activeLocations.includes(UNSPECIFIED_LOCATION);
+
+        filteredItems = filteredItems.filter((item: Item) => {
+          const itemHasLocations =
+            Array.isArray((item as any).locations)
+            && (item as any).locations.length > 0;
+
+          if (wantsUnspecified && !itemHasLocations) {
+            return true;
+          }
+
+          const itemLocations = itemHasLocations
+            ? (item as any).locations
+            : categoryLocations;
+
+          if (!Array.isArray(itemLocations) || itemLocations.length === 0) {
+            return false;
+          }
+
+          return itemLocations.some((l: string) => activeLocations.includes(l));
+        });
+      }
 
       if (showMissingOnly && saveData !== undefined) {
         filteredItems = filteredItems.filter((item: Item) => {
