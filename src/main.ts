@@ -1,4 +1,5 @@
 import { initActsDropdown } from "./components/acts-dropdown.ts";
+import { initLocationFilter } from "./components/location-filter.ts";
 import { initBackToTop } from "./components/back-to-top.ts";
 import { initShowOnlyMissing } from "./components/show-only-missing.ts";
 import { initShowSpoilers } from "./components/show-spoilers.ts";
@@ -51,6 +52,7 @@ function main() {
 function initComponents() {
   // Top-nav
   initActsDropdown();
+  initLocationFilter();
   initShowOnlyMissing();
   initShowSpoilers();
   initUploadSave();
