@@ -144,7 +144,7 @@
           "id": "rune-harp-1",
           "label": "Rune Harp 1",
           "link": "https://hollowknight.wiki/w/Rune_Harp",
-          "locations": ["Weavernest Atla"],
+          "locations": ["Weavenest Atla"],
           "scene": "Weave_08",
           "type": "relic"
         },
