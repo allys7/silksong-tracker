@@ -42,7 +42,7 @@ export function updateTabProgress(): void {
   // falling back to the category label when absent. The `setAvailableLocations` call will
   // canonicalize values against `ALL_LOCATIONS`.
   const locations = new Set<string>();
-  for (const cat of scenesJSON.categories as any[]) {
+  for (const cat of scenesJSON.categories) {
     if (Array.isArray(cat.locations)) {
       for (const l of cat.locations) {
         if (typeof l === "string") {
@@ -132,7 +132,7 @@ export function updateTabProgress(): void {
       const activeLocations = getStoredLocationFilter();
       if (activeLocations.length > 0) {
         const categoryLocations =
-          Array.isArray((category as any).locations)
+          Array.isArray(category.locations)
           && (category as any).locations.length > 0
             ? (category as any).locations
             : [category.label];
