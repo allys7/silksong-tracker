@@ -1,14 +1,5 @@
-import bossesJSON from "../data/bosses.json" with { type: "json" };
-import completionJSON from "../data/completion.json" with { type: "json" };
-import essentialsJSON from "../data/essentials.json" with { type: "json" };
-import journalJSON from "../data/journal.json" with { type: "json" };
-import mainJSON from "../data/main.json" with { type: "json" };
-import miniBossesJSON from "../data/mini-bosses.json" with { type: "json" };
-import scenesJSON from "../data/scenes.json" with { type: "json" };
-import wishesJSON from "../data/wishes.json" with { type: "json" };
 import { getHTMLElement } from "../elements.ts";
 import { renderActiveTab } from "../render-tab.ts";
-import type { Category } from "../types/Category.ts";
 import type { Location } from "../types/Location.ts";
 import { ALL_LOCATIONS } from "../types/Location.ts";
 
@@ -88,29 +79,6 @@ function renderLocationsList() {
 
   listContainer.innerHTML = "";
 
-  // Add a special "Unspecified" option (items that do not have a `locations` property on the item
-  // JSON). This is not part of `ALL_LOCATIONS`.
-  const counts = computeLocationCounts();
-
-  const unspecifiedLabel = document.createElement("label");
-  unspecifiedLabel.style.display = "flex";
-  unspecifiedLabel.style.justifyContent = "space-between";
-
-  const unspecifiedLeft = document.createElement("span");
-  const unspecifiedCheckbox = document.createElement("input");
-  unspecifiedCheckbox.type = "checkbox";
-  unspecifiedCheckbox.value = UNSPECIFIED_LOCATION;
-  unspecifiedCheckbox.addEventListener("change", onChange);
-  unspecifiedLeft.append(unspecifiedCheckbox);
-  unspecifiedLeft.append(document.createTextNode(" No location"));
-
-  const unspecifiedCount = document.createElement("span");
-  unspecifiedCount.textContent = String(counts.unspecified ?? 0);
-
-  unspecifiedLabel.append(unspecifiedLeft);
-  unspecifiedLabel.append(unspecifiedCount);
-  listContainer.append(unspecifiedLabel);
-
   for (const loc of availableLocations) {
     const label = document.createElement("label");
     label.style.display = "flex";
@@ -127,72 +95,9 @@ function renderLocationsList() {
     left.append(checkbox);
     left.append(document.createTextNode(` ${loc}`));
 
-    const countSpan = document.createElement("span");
-    countSpan.textContent = String(counts.locations.get(loc) ?? 0);
-
     label.append(left);
-    label.append(countSpan);
     listContainer.append(label);
   }
-}
-
-function computeLocationCounts(): {
-  locations: Map<string, number>;
-  unspecified: number;
-} {
-  const allCategories: Array<{ categories: Category[] }> = [
-    { categories: mainJSON.categories as Category[] },
-    { categories: essentialsJSON.categories as Category[] },
-    { categories: bossesJSON.categories as Category[] },
-    { categories: miniBossesJSON.categories as Category[] },
-    { categories: completionJSON.categories as Category[] },
-    { categories: wishesJSON.categories as Category[] },
-    { categories: journalJSON.categories as Category[] },
-    { categories: scenesJSON.categories as Category[] },
-  ];
-
-  const map = new Map<string, number>();
-  let unspecified = 0;
-
-  for (const group of allCategories) {
-    for (const category of group.categories) {
-      const categoryLocations =
-        Array.isArray((category as any).locations)
-        && (category as any).locations.length > 0
-          ? ((category as any).locations as string[])
-          : typeof category.label === "string"
-            ? [category.label]
-            : [];
-
-      for (const item of category.items) {
-        const itemHasLocations =
-          Array.isArray((item as any).locations)
-          && (item as any).locations.length > 0;
-
-        if (!Array.isArray((item as any).locations)) {
-          // Item has no explicit `locations` property — count toward unspecified
-          unspecified++;
-        }
-
-        const itemLocations = itemHasLocations
-          ? ((item as any).locations as string[])
-          : categoryLocations;
-
-        if (!Array.isArray(itemLocations) || itemLocations.length === 0) {
-          continue;
-        }
-
-        for (const l of itemLocations) {
-          if (typeof l !== "string") {
-            continue;
-          }
-          map.set(l, (map.get(l) ?? 0) + 1);
-        }
-      }
-    }
-  }
-
-  return { locations: map, unspecified };
 }
 
 function onChange() {
